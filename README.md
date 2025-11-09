@@ -1,0 +1,1 @@
+Repositori ini berisi implementasi sistem basis data perpustakaan menggunakan SQLite di Google Colab. Terdiri dari tiga tabel: buku, anggota, dan peminjaman, dengan fungsi untuk menambahkan data, mencatat peminjaman, dan menghitung jumlah buku yang dipinjam oleh anggota. Dilengkapi dengan eksplorasi data menggunakan Pandas serta visualisasi menggunakan Matplotlib dan Seaborn.
